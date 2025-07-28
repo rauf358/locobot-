@@ -1,0 +1,10 @@
+uvicorn
+fastapi
+opencv-python
+mediapipe
+Pillow
+torch
+torchvision
+scipy
+faiss-cpu
+pyttsx3
